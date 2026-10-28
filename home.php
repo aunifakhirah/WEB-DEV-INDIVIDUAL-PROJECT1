@@ -20,7 +20,7 @@ ob_start();
                 </div>
                 <div>
                     <h6 class="text-muted mb-1">Total Programs</h6>
-                    <h3 class="mb-0 fw-bold">12</h3>
+                    <h3 class="mb-0 fw-bold">20</h3>
                 </div>
             </div>
         </div>
@@ -33,7 +33,7 @@ ob_start();
                 </div>
                 <div>
                     <h6 class="text-muted mb-1">Customers</h6>
-                    <h3 class="mb-0 fw-bold">48</h3>
+                    <h3 class="mb-0 fw-bold">2</h3>
                 </div>
             </div>
         </div>
@@ -46,7 +46,7 @@ ob_start();
                 </div>
                 <div>
                     <h6 class="text-muted mb-1">Active Staffs</h6>
-                    <h3 class="mb-0 fw-bold">6</h3>
+                    <h3 class="mb-0 fw-bold">1</h3>
                 </div>
             </div>
         </div>
@@ -59,7 +59,7 @@ ob_start();
                 </div>
                 <div>
                     <h6 class="text-muted mb-1">Total Orders</h6>
-                    <h3 class="mb-0 fw-bold">124</h3>
+                    <h3 class="mb-0 fw-bold">1</h3>
                 </div>
             </div>
         </div>
