@@ -90,7 +90,7 @@ ob_start();
                         <td>011-2345678</td>
                         <td>aunifakhirah15@gmail.com</td>
                         <td class="text-center">
-                            <a href="staffs.php?edit=S001" class="btn btn-success btn-sm"><i class="bi bi-pencil-fill"></i> Edit</a>
+                            <a href="staffs.php?edit=S001" class="btn btn-warning btn-sm"><i class="bi bi-pencil-fill"></i> Edit</a>
                             <a href="staffs.php?delete=S001" class="btn btn-danger btn-sm" onclick="return confirm('Delete staff?');"><i class="bi bi-trash-fill"></i> Delete</a>
                         </td>
                     </tr>

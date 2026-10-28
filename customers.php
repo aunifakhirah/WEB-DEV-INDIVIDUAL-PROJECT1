@@ -100,7 +100,7 @@ ob_start();
                         <td>012-3456789</td>
                         <td>2026-01-15</td>
                         <td class="text-center">
-                            <a href="customers.php?edit=C001" class="btn btn-success btn-sm"><i class="bi bi-pencil-fill"></i> Edit</a>
+                            <a href="customers.php?edit=C001" class="btn btn-warning btn-sm"><i class="bi bi-pencil-fill"></i> Edit</a>
                             <a href="customers.php?delete=C001" class="btn btn-danger btn-sm" onclick="return confirm('Delete customer?');"><i class="bi bi-trash-fill"></i> Delete</a>
                         </td>
                     </tr>
@@ -111,7 +111,7 @@ ob_start();
                         <td>019-8765432</td>
                         <td>2026-02-20</td>
                         <td class="text-center">
-                            <a href="customers.php?edit=C002" class="btn btn-success btn-sm"><i class="bi bi-pencil-fill"></i> Edit</a>
+                            <a href="customers.php?edit=C002" class="btn btn-warning btn-sm"><i class="bi bi-pencil-fill"></i> Edit</a>
                             <a href="customers.php?delete=C002" class="btn btn-danger btn-sm" onclick="return confirm('Delete customer?');"><i class="bi bi-trash-fill"></i> Delete</a>
                         </td>
                     </tr>

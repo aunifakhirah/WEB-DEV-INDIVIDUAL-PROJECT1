@@ -68,8 +68,8 @@ ob_start();
     <div class="card-body">
         <div class="d-flex justify-content-between align-items-center mb-3">
             <h5 class="mb-0"><i class="bi bi-list-check text-primary me-2"></i>Ordered Programs</h5>
-            <a href="invoice.php?oid=O001" target="_blank" class="btn btn-info btn-sm text-white">
-                <i class="bi bi-receipt me-1"></i>Generate Invoice
+            <a href="invoice.php?oid=O001" target="_blank" class="btn btn-success btn-sm text-white">
+                <i class="bi bi-receipt me-1"></i>View Invoice
             </a>
         </div>
 
@@ -91,7 +91,7 @@ ob_start();
                         <td>49.00</td>
                         <td>49.00</td>
                         <td class="text-center">
-                            <a href="orderdetails.php?edit=D001" class="btn btn-success btn-sm"><i class="bi bi-pencil-fill"></i> Edit</a>
+                            <a href="orderdetails.php?edit=D001" class="btn btn-warning btn-sm"><i class="bi bi-pencil-fill"></i> Edit</a>
                             <a href="orderdetails.php?delete=D001" class="btn btn-danger btn-sm" onclick="return confirm('Remove program?');"><i class="bi bi-trash-fill"></i> Delete</a>
                         </td>
                     </tr>
@@ -101,7 +101,7 @@ ob_start();
                         <td>29.00</td>
                         <td>58.00</td>
                         <td class="text-center">
-                            <a href="orderdetails.php?edit=D002" class="btn btn-success btn-sm"><i class="bi bi-pencil-fill"></i> Edit</a>
+                            <a href="orderdetails.php?edit=D002" class="btn btn-warning btn-sm"><i class="bi bi-pencil-fill"></i> Edit</a>
                             <a href="orderdetails.php?delete=D002" class="btn btn-danger btn-sm" onclick="return confirm('Remove program?');"><i class="bi bi-trash-fill"></i> Delete</a>
                         </td>
                     </tr>

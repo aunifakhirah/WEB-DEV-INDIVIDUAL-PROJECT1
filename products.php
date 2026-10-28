@@ -132,9 +132,9 @@ ob_start();
                         <td>Intermediate</td>
                         <td>4 Weeks</td>
                         <td class="text-center">
-                            <a href="products_details.php?id=W001" class="btn btn-warning btn-sm" title="View Details"><i class="bi bi-eye-fill"></i> Details</a>
-                            <a href="products.php?edit=W001" class="btn btn-success btn-sm" title="Edit Record"><i class="bi bi-pencil-fill"></i> Edit</a>
-                            <a href="products.php?delete=W001" class="btn btn-danger btn-sm" onclick="return confirm('Are you sure you want to delete this program?');" title="Delete Record"><i class="bi bi-trash-fill"></i> Delete</a>
+                            <a href="products.php?edit=P001" class="btn btn-sm btn-warning" title="Edit Record"><i class="bi bi-pencil"></i> Edit</a>
+                            <button class="btn btn-sm btn-info text-white" data-bs-toggle="modal" data-bs-target="#imageModalP001" title="View Image"><i class="bi bi-image"></i> Image</button>
+                            <a href="products.php?delete=P001" class="btn btn-sm btn-danger" onclick="return confirm('Are you sure you want to delete this program?');" title="Delete Record"><i class="bi bi-trash"></i> Delete</a>
                         </td>
                     </tr>
                     <tr>
@@ -145,9 +145,9 @@ ob_start();
                         <td>Beginner</td>
                         <td>2 Weeks</td>
                         <td class="text-center">
-                            <a href="products_details.php?id=W002" class="btn btn-warning btn-sm" title="View Details"><i class="bi bi-eye-fill"></i> Details</a>
-                            <a href="products.php?edit=W002" class="btn btn-success btn-sm" title="Edit Record"><i class="bi bi-pencil-fill"></i> Edit</a>
-                            <a href="products.php?delete=W002" class="btn btn-danger btn-sm" onclick="return confirm('Are you sure you want to delete this program?');" title="Delete Record"><i class="bi bi-trash-fill"></i> Delete</a>
+                            <a href="products.php?edit=P002" class="btn btn-sm btn-warning" title="Edit Record"><i class="bi bi-pencil"></i> Edit</a>
+                            <button class="btn btn-sm btn-info text-white" data-bs-toggle="modal" data-bs-target="#imageModalP002" title="View Image"><i class="bi bi-image"></i> Image</button>
+                            <a href="products.php?delete=P002" class="btn btn-sm btn-danger" onclick="return confirm('Are you sure you want to delete this program?');" title="Delete Record"><i class="bi bi-trash"></i> Delete</a>
                         </td>
                     </tr>
                     <tr>
@@ -158,9 +158,9 @@ ob_start();
                         <td>All Levels</td>
                         <td>1 Week</td>
                         <td class="text-center">
-                            <a href="products_details.php?id=W003" class="btn btn-warning btn-sm" title="View Details"><i class="bi bi-eye-fill"></i> Details</a>
-                            <a href="products.php?edit=W003" class="btn btn-success btn-sm" title="Edit Record"><i class="bi bi-pencil-fill"></i> Edit</a>
-                            <a href="products.php?delete=W003" class="btn btn-danger btn-sm" onclick="return confirm('Are you sure you want to delete this program?');" title="Delete Record"><i class="bi bi-trash-fill"></i> Delete</a>
+                            <a href="products.php?edit=P003" class="btn btn-sm btn-warning" title="Edit Record"><i class="bi bi-pencil"></i> Edit</a>
+                            <button class="btn btn-sm btn-info text-white" data-bs-toggle="modal" data-bs-target="#imageModalP003" title="View Image"><i class="bi bi-image"></i> Image</button>
+                            <a href="products.php?delete=P003" class="btn btn-sm btn-danger" onclick="return confirm('Are you sure you want to delete this program?');" title="Delete Record"><i class="bi bi-trash"></i> Delete</a>
                         </td>
                     </tr>
                 </tbody>

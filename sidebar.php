@@ -1,7 +1,7 @@
 <!--
 Matric Number: A218567
 Name: Nur Auni Fakhirah binti Mohd Fakrurazi
-Project 1: Workout Plan PDFs Back-Office System
+Project 1: WORKOUT PROGRAM PDFs Back-Office System
 -->
 
  <!-- Sidebar Section -->   
@@ -9,7 +9,7 @@ Project 1: Workout Plan PDFs Back-Office System
         <div class="p-4">
           <a href="#" class="navbar-brand">
             <div class="row">
-              <h5 class="">WORKOUT PROGRAM PDFs</h5>
+              <h5 class="">FITLYs</h5>
             </div>
           </a>
 

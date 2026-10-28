@@ -89,9 +89,9 @@ ob_start();
                         <td>Ahmad Zulkarnain</td>
                         <td>Nur Auni Fakhirah</td>
                         <td class="text-center">
-                            <a href="orderdetails.php?oid=O001" class="btn btn-warning btn-sm text-dark" title="Order details"><i class="bi bi-list"></i> Details</a>
-                            <a href="invoice.php?oid=O001" class="btn btn-info btn-sm text-white" title="Invoice"><i class="bi bi-receipt"></i> Invoice</a>
-                            <a href="orders.php?edit=O001" class="btn btn-success btn-sm"><i class="bi bi-pencil-fill"></i> Edit</a>
+                            <a href="orderdetails.php?oid=O001" class="btn btn-info btn-sm text-white" title="Order details"><i class="bi bi-list"></i> Details</a>
+                            <a href="invoice.php?oid=O001" class="btn btn-success btn-sm text-white" title="Invoice"><i class="bi bi-receipt"></i> Invoice</a>
+                            <a href="orders.php?edit=O001" class="btn btn-warning btn-sm"><i class="bi bi-pencil-fill"></i> Edit</a>
                             <a href="orders.php?delete=O001" class="btn btn-danger btn-sm" onclick="return confirm('Delete order?');"><i class="bi bi-trash-fill"></i> Delete</a>
                         </td>
                     </tr>
